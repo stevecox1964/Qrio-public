@@ -1,3 +1,8 @@
+# Steve's Qrio Project
+I want to refactor this code to work with other speech apis as well as use other object detection models
+
+
+
 # Qrio-public
 
 This is the code repository for the Qrio project, an AI driven Bot which can recognise human faces and a toys. Qrio can speak and search for relevant video on YouTubeKids.com on the identified toys.
