@@ -1,6 +1,6 @@
 # Steve's Qrio Project
 I want to refactor this code to work with other speech apis as well as use other object detection models
-
+I want to drive Unreal engine using the brain code in this project as well
 
 
 # Qrio-public
